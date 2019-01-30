@@ -3,3 +3,4 @@ nihao
 new line in feature
 new line again
 add locally
+a new line added from remote
